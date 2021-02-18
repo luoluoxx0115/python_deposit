@@ -7,7 +7,7 @@
 @Description：
 """
 # 启动查询工资的方法
-from python_deposit import select_money
+from python_9677 import select_money
 
 if __name__ == '__main__':
     totle_money = select_money.select_money()

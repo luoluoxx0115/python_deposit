@@ -8,7 +8,7 @@
 """
 
 # 定义工资查询方法
-from python_deposit import money, send_money
+from python_9677 import money, send_money
 
 
 def select_money():
